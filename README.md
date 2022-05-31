@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anhduy-git
-- 👀 I’m interested in AI & Machine Learning
+- 👀 I’m interested in Mobile App Developement, AI & Machine Learning
 - 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on AI & Machine Learning
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me: send mail to anhduydp123@gmail.com
 
 <!---
