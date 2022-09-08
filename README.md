@@ -1,9 +1,10 @@
 ## Nice to meet you ! ![hello](https://user-images.githubusercontent.com/84486806/189020554-199e4df5-63f9-406b-a9cb-29c0fbe7e67c.gif)
 
 
+## 🤗 About me
 
-
-My name is Anh Duy, I have a passion for programming, creating software products, and in addition, I also like competitive programming, AI & Machine Learning. I am currently a 3rd year student at University of Science - VNUHCM, in Ho Chi Minh city, Vietnam. My major is Information Technology, so I am studying and working in the software field, more specifically backend developper & mobile developper. I am always looking for like-minded teammates to work and learn together, and above all, I want to find job opportunities in related fields.
+My name is Anh Duy, I have a passion for programming, creating software products, and in addition, I also like competitive programming, AI & Machine Learning. 
+I am currently a 3rd year student at University of Science - VNUHCM, in Ho Chi Minh city, Vietnam. My major is Information Technology, so I am studying and working in the software field, more specifically backend developper & mobile developper. I am always looking for like-minded teammates to work and learn together, and above all, I want to find job opportunities in related fields.
 
 [![Linkedin Badge](https://img.shields.io/badge/-nguyentrananhduy-007FFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyentrananhduy/)](https://www.linkedin.com/in/nguyentrananhduy/)
 [![Gmail Badge](https://img.shields.io/badge/-anhduydp123@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anhduydp123@gmail.com)](mailto:anhduydp123@gmail.com)
