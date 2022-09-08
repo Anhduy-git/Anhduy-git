@@ -38,6 +38,6 @@ I am currently a 3rd year student at University of Science - VNUHCM, in Ho Chi M
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anhduy-git&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnhduy-git%2FAnhduy-git&countColor=%230096ff&style=default)
-
 ![snake gif](https://github.com/Anhduy-git/Anhduy-git/blob/output/github-contribution-grid-snake.svg)
+
+![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnhduy-git%2FAnhduy-git&countColor=%230096ff&style=default)
