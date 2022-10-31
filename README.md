@@ -14,6 +14,7 @@ I am currently a 3rd year student at University of Science - VNUHCM, in Ho Chi M
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express)
 ![Nestjs](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
