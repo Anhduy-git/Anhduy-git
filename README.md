@@ -14,8 +14,9 @@ I am currently a 3rd year student at University of Science - VNUHCM, in Ho Chi M
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=express)
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express)
+![Nestjs](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -32,6 +33,8 @@ I am currently a 3rd year student at University of Science - VNUHCM, in Ho Chi M
 ![Python](https://img.shields.io/badge/-Python-ffdf00?style=flat-square&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-181717?style=flat-square&logo=openapiinitiative)
 
 
 ![Anh Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anhduy-git&show_icons=true&theme=tokyonight)
