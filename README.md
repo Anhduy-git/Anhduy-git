@@ -4,11 +4,11 @@
 ## 🤗 About me
 
 My name is Anh Duy, I have a passion for programming, creating software products, and in addition, I also like competitive programming, AI & Machine Learning.  
-I am currently a 3rd year student at University of Science - VNUHCM, in Ho Chi Minh city, Vietnam. My major is Information Technology, so I am studying and working in the software field, more specifically backend developper & mobile developper. I am always looking for like-minded teammates to work and learn together, and above all, I want to find job opportunities in related fields.
+I am currently a final year student at the university Claude Bernard Lyon 1, Villeurbanne, France. My major is Information Technology, so I am studying and working in the software field, more specifically backend developper & mobile developper. I am always looking for like-minded teammates to work and learn together, and above all, I want to find job opportunities in related fields.
 
 [![Linkedin Badge](https://img.shields.io/badge/-nguyentrananhduy-007FFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyentrananhduy/)](https://www.linkedin.com/in/nguyentrananhduy/)
 [![Gmail Badge](https://img.shields.io/badge/-anhduydp123@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anhduydp123@gmail.com)](mailto:anhduydp123@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-anhduy.nguyentran.48-0039a6?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/anhduy.nguyentran.48/)](https://facebook.com/anhduy.nguyentran.48)
+[![Instagram Badge](https://img.shields.io/badge/-trananhduy.nguyen.48-0039a6?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/trananhduy.nguyen.48/)](https://facebook.com/trananhduy.nguyen.48)
 
 
 ## ⚡ Technologies
@@ -36,6 +36,7 @@ I am currently a 3rd year student at University of Science - VNUHCM, in Ho Chi M
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-181717?style=flat-square&logo=openapiinitiative)
+![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux)
 
 
 ![Anh Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anhduy-git&show_icons=true&theme=tokyonight)
