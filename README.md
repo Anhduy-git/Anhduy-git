@@ -4,7 +4,7 @@
 ## 🤗 About me
 
 My name is Anh Duy, I have a passion for programming, creating software products, and in addition, I also like competitive programming, AI & Machine Learning.  
-I am currently a final year student at the university Claude Bernard Lyon 1, Villeurbanne, France. My major is Information Technology, so I am studying and working in the software field, more specifically backend developper & mobile developper. I am always looking for like-minded teammates to work and learn together, and above all, I want to find job opportunities in related fields.
+I am currently a student at Université Paris Cité, Paris, pursuing a Master's degree in "Génie Informatique En Alternance". My major is Information Technology, so I am studying and working in the software field, more specifically backend developper & mobile developper. I am always looking for like-minded teammates to work and learn together, and above all, I want to find job opportunities in related fields.
 
 [![Linkedin Badge](https://img.shields.io/badge/-nguyentrananhduy-007FFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyentrananhduy/)](https://www.linkedin.com/in/nguyentrananhduy/)
 [![Gmail Badge](https://img.shields.io/badge/-anhduydp123@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anhduydp123@gmail.com)](mailto:anhduydp123@gmail.com)
@@ -26,6 +26,7 @@ I am currently a final year student at the university Claude Bernard Lyon 1, Vil
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-black?style=flat-square&logo=androidstudio)
