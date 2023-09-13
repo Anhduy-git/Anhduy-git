@@ -4,7 +4,7 @@
 ## 🤗 About me
 
 My name is Anh Duy, I have a passion for programming, creating software products, and in addition, I also like competitive programming, AI & Machine Learning.  
-I am currently a student at Université Paris Cité, Paris, pursuing a Master's degree in "Génie Informatique En Alternance". My major is Information Technology, so I am studying and working in the software field, more specifically backend developper & mobile developper. I am always looking for like-minded teammates to work and learn together, and above all, I want to find job opportunities in related fields.
+I am currently a student at Université Paris Cité, Paris, pursuing a Master's degree in Software Engineering. I am studying and working in the software field, more specifically backend developper & mobile developper. I am always looking for like-minded teammates to work and learn together, and above all, I want to find job opportunities in related fields.
 
 [![Linkedin Badge](https://img.shields.io/badge/-nguyentrananhduy-007FFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyentrananhduy/)](https://www.linkedin.com/in/nguyentrananhduy/)
 [![Gmail Badge](https://img.shields.io/badge/-anhduydp123@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anhduydp123@gmail.com)](mailto:anhduydp123@gmail.com)
